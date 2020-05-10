@@ -1,0 +1,123 @@
+
+
+#main-wrapper{
+	width: 1000px;
+	margin: 0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border: 2px solid #2c3e50;
+}
+
+.myform{
+	width: 450px;
+	margin: 0 auto;
+
+}
+
+.inputvalues{
+	width: 430px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+#login_btn{
+	margin-top: 10px;
+	background-color: #27ae60;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#register_btn{
+	margin-bottom: 20px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#signup_btn{
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#back_btn{
+	margin-bottom: 20px;
+	background-color: #e74c3c;
+	padding: 5px;
+	color: white;
+	width: 30%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#logout_btn{
+	margin-top: 10px;
+	background-color: #e74c3c;
+	padding: 5px;
+	color: white;
+	width: 50%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px; 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+
+tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(odd){background-color: LightGray}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+tr:hover {background-color: Tomato}
+
+
